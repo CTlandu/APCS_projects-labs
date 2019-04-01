@@ -7,5 +7,5 @@ As a student who studied AP Computer Science at school, my initial purpose of cr
 
 Hope you do well in your course :) Have a nice day.
 
-# These codes may not contain the best and concise algorithms. Because I am still a high school student, my coding ability is limited.
-# But, if you think that some codes really need to be modified, please feel free to tell me! Thanks a lot.
+**These codes may not contain the best and concise algorithms. Because I am still a high school student, my coding ability is limited.**
+**But, if you think that some codes really need to be modified, please feel free to tell me! Thanks a lot.**
